@@ -25,7 +25,9 @@ Qualified submissions will receive a Badge via email.
 
 
 # Additional Learning and Training Resources
+If you want to go beyond the learning paths for each certification (which the cloud skills challenge takes you through), here are some additonal resources such as our Ninja training series.
 ## Learning and Training Resources
+ - [Microsoft Defender for Endpoint Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
  - [Microsoft Defender for Cloud Ninja Training](http://aka.ms/ascninja)
  - [Microsoft Defender for Cloud Community Repository](https://github.com/Azure/Microsoft-Defender-for-Cloud)
  - [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
